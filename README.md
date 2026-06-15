@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-I am a **Python Developer / Automation & AI Engineer** specializing in core Python, Generative AI application development, and automation solutions. I focus on building robust Retrieval-Augmented Generation (RAG) systems, autonomous AI agents, and scalable multi-agent workflows using modern AI frameworks.
+**Senior Python Developer & AI Engineer** with **7+ years of professional IT experience** specializing in backend engineering, scalable automation, and Generative AI application development. Proven track record in translating complex business requirements into high-efficiency software solutions. Currently focused on building robust Retrieval-Augmented Generation (RAG) systems, autonomous AI agents, and stateful multi-agent workflows using LangChain, LangGraph, and modern LLM orchestration frameworks.
 
 ---
 
