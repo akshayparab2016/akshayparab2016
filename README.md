@@ -1,4 +1,4 @@
-# Hi, I'm Akshay Parab 👋
+# Hi, I'm Akshay Parab 👋 <img src="https://komarev.com/ghpvc/?username=akshayparab2016&label=Profile%20Views&color=0e76a8&style=flat-square" align="right" alt="Akshay Parab Profile Views" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,7 +33,7 @@ I am a **Python Developer / Automation & AI Engineer** specializing in Python, G
 
 ### 📚 [AI RAG PDF Chatbot](https://akshayparab-ai-pdf-rag-chatbot.hf.space/)
 * Built an advanced Retrieval-Augmented Generation system enabling semantic search and conversational Q&A over complex PDF documents.
-* **Key Tech:** `LangChain`, `Vector Databases (Chroma/Pinecone)`, `Embeddings`, `Python`
+* **Key Tech:** `LangChain`, `Vector Databases (ChromaDB)`, `Embeddings`, `Python`
 
 ### 📄 [AI SQL Assistant](https://akshayparab-ai-sql-assistant.hf.space/)
 * Developed a natural language-to-SQL interface that safely translates user queries into precise SQL code to retrieve database insights.
@@ -44,7 +44,7 @@ I am a **Python Developer / Automation & AI Engineer** specializing in Python, G
 * **Key Tech:** `Python`, `LangGraph`, `LLMs`, `State Management`
 
 ### 🎧 [AI Customer Support Assistant](https://akshayparab2-ai-customer-support-assistant.hf.space/)
-* Created an intelligent support agent capable of contextual intent routing, automated ticket handling, and dynamic guardrail validation.
+* Created an intelligent support agent capable of instantly handling tech, billing and sales queries round the clock.
 * **Key Tech:** `Python`, `LangChain Agents`, `API Integration`
 
 ---
@@ -57,6 +57,6 @@ I am a **Python Developer / Automation & AI Engineer** specializing in Python, G
 
 ## 📫 Connect With Me
 * 💼 **LinkedIn:** [@akshay-s-parab](https://www.linkedin.com/in/akshay-s-parab/)
-* 📧 **Email:** akshayparab2016@gmail.com
+* 📧 **Email:** [akshayparab2016@gmail.com](mailto:akshayparab2016@gmail.com)
 
 ---
