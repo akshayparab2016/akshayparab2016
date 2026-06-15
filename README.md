@@ -1,7 +1,7 @@
 # Hi, I'm Akshay Parab 👋
 
 ## 🚀 About Me
-Aspiring AI Engineer passionate about building Gen AI applications, robust RAG pipelines, and scalable automation solutions using Python and modern AI frameworks.
+Aspiring AI Engineer with a strong foundation in Python, AI application development, and data-driven solutions. Passionate about building Generative AI applications, RAG systems, AI agents, and scalable automation workflows using modern AI frameworks.
 
 ## 💻 Skills
 
@@ -31,20 +31,29 @@ Aspiring AI Engineer passionate about building Gen AI applications, robust RAG p
 
 ## 📌 Featured Projects: 
 ### 📚 AI RAG PDF Chatbot
-Chat with PDFs using LangChain.
+Built a Retrieval-Augmented Generation system that enables users to chat with PDF documents using LangChain, vector databases, and LLMs.
 
 ### 📄 AI SQL Assistant
-Converts plain english into SQL queries using LLMs.
+Converts natural language questions into SQL queries and retrieves insights from databases using LLMs.
 
 ### 🤖 AI Multi-Agent Debate System
-Python + Flask + LangGraph + Groq
+Designed a multi-agent workflow using LangGraph where specialized AI agents debate, rebut, and collaboratively generate final responses.
 
-### 🤖 AI Customer Support Assistant
-Python + Flask + LangGraph + Groq
+### 🎧 AI Customer Support Assistant
+Developed an AI-powered support assistant capable of handling customer queries, routing requests, and generating contextual responses.
+
+
+## 🌱 Currently Learning
+- Advanced LangGraph Workflows
+- Multi-Agent Architectures
+- Agentic RAG
+- LLM Evaluation & Observability
+- AI System Design
 
 
 ## 📫 Connect With Me:
 - LinkedIn: https://www.linkedin.com/in/akshay-s-parab/
 - Email: akshayparab2016@gmail.com
+
 ---
-⭐ Always learning and building.
+⭐ Building AI Agents, RAG Systems, and Intelligent Applications with Python.
